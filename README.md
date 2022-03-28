@@ -2,16 +2,16 @@
 This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)
 
 # Introduction
-<insert here>
+*insert here*
 
 # Problem Statement
-<insert here>
+*insert here*
 
 # Significance of the Proposed Project
-<insert here>
+*insert here*
 
 # Methods
-<insert here>
+*insert here*
   
 # Expected Output
-<insert here>
+*insert here*
