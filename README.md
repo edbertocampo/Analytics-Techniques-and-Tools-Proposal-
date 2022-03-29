@@ -1,17 +1,20 @@
 # Analytics-Techniques-and-Tools-Proposal-
-This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)
+***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
 
-# Introduction
+## Introduction
 *insert here*
 
-# Problem Statement
+## Problem Statement
 *insert here*
 
-# Significance of the Proposed Project
+## Significance of the Proposed Project
 *insert here*
 
-# Methods
+## Methods
 *insert here*
   
-# Expected Output
+## Expected Output
+*insert here*
+
+## References
 *insert here*
