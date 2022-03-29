@@ -1,6 +1,6 @@
 ![climate](https://user-images.githubusercontent.com/102471784/160620297-4291ff12-cda3-4cbe-aecd-2a0c844edcb7.jpg)
 
-# Analytics-Techniques-and-Tools-Proposal-
+# Project Title: EDA to Climate Change in the Philippines tru the Years
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
 
 ## Introduction
