@@ -13,6 +13,9 @@
 This study aims to provide an explanatory analysis of Climate Change in the Philippines through the years. This project will provide a variety of data sets illustrating climatic variations in the Philippines. This study will be beneficial for:
 
 **The Students**. For those students who will be needing data that may be found from the project. This will allow them to have a thorough understanding of the Philippines' climatic change throughout time.
+
+**The Teachers.** For teachers who will be teaching about climate change in the Philippines through the years. The information collected in the project can be utilised in their courses.
+
  
 
 ## Methods
