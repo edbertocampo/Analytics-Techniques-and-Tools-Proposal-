@@ -32,4 +32,8 @@ This study aims to provide an explanatory analysis of Climate Change in the Phil
 *insert here*
 
 ## References
-*insert here*
+Climate change scenarios in the Philippines. Climate Change in the Philippines. (2011). Retrieved from https://pubfiles.pagasa.dost.gov.ph/iaas/ClimateChange_in_the_Philippines_MDGF_Report_2011.pdf 
+
+FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
+
+Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
