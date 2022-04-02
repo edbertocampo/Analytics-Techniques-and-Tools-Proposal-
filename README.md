@@ -23,6 +23,10 @@ This study aims to provide an explanatory analysis of Climate Change in the Phil
 
 **The Teachers.** For teachers who will be teaching about climate change in the Philippines through the years. The information collected in the project can be utilised in their courses.
 
+**The Government Officials.** For selected government officials who will be needing data that they may use for their future project/s related to climate change. 
+
+**The Future Researchers.** For the researchers to provide background knowledge concerning climatic change in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions.
+
  
 
 ## Methods
