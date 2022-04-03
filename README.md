@@ -37,7 +37,9 @@ This study aims to provide an explanatory analysis of Climate Change in the Phil
  
 
 ## Methods
-*insert here*
+Understanding climate and its variability is the first step toward figuring out what factors influence the climate system's mean state, evolution, and future changes. To describe that climatic condition and quantify its variability, we employed a record of instrumental measurements from reliable lengths of readings. Then, using statistical analysis of the data, we try to determine if and when a shift in that climatic state has occurred or can be projected. We will utilize temperature records to explain how climate change affects people. Climate and its variations are studied using data collected by reliable instruments.
+
+The instrumental surface temperature record is produced from traditional thermometer readings and serves as the foundation for developing large-scale surface temperature estimations used in climate change research. The global average temperature is calculated by combining near-surface land air temperatures and near-surface sea water temperatures for the seas.
   
 ## Expected Output
 With the help of EDA which is an analysis approach that identifies general patterns in the data, it will help the researcher to look at the data before making any assumptions. If the analysis of climate change in the Philippines through the years are proven and have some kind of relationship between the variables and if the result of the analysis is getting worst it can be used to spread an awareness to lessen the variables that cause climate change. It also can help for further research to come up a sufficient strategic plan. The government officials can have a meeting to strategized a plan to lessen climate change they can raise an awareness especially to the younger generation, advocate a campaign, make a program that can help or the government officials can also adapt and learn from the other countries who have successfully come up a strategic plan.
@@ -55,3 +57,4 @@ https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:
 
 https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
 
+National Academies of Sciences, Engineering, and Medicine. 2006. Surface Temperature Reconstructions for the Last 2,000 Years. Washington, DC: The National Academies Press. https://nap.nationalacademies.org/read/11676/chapter/5
