@@ -39,7 +39,7 @@ Climate change has had several noticeable effects on the Philippines over the ye
  
 
 ## Methods
-Understanding climate and its variability is the first step toward figuring out what factors influence the climate system's mean state, evolution, and future changes. 
+There have been studies on climate change challenges for poor nations, but it is the rising conversations and literature on climate issues in the Philippines that provide a chance to generate additional empirical data and understanding into this topic. As a result, conducting an Exploratory Data Analysis (EDA) is an appropriate method of building on and exploring new research and is therefore appropriate. The EDA focuses on doing an analysis of information on adaptation techniques in the Philippines setting and providing conclusions. It will also identify general patterns of climate change. 
 
   
 ## Expected Output
