@@ -40,7 +40,9 @@ This study aims to provide an explanatory analysis of Climate Change in the Phil
 *insert here*
   
 ## Expected Output
-*insert here*
+With the help of EDA which is an analysis approach that identifies general patterns in the data, it will help the researcher to look at the data before making any assumptions. If the analysis of climate change in the Philippines through the years are proven and have some kind of relationship between the variables and if the result of the analysis is getting worst it can be used to spread an awareness to lessen the variables that cause climate change. It also can help for further research to come up a sufficient strategic plan. The government officials can have a meeting to strategized a plan to lessen climate change they can raise an awareness especially to the younger generation, advocate a campaign, make a program that can help or the government officials can also adapt and learn from the other countries who have successfully come up a strategic plan.
+
+
 
 ## References
 Climate change scenarios in the Philippines. Climate Change in the Philippines. (2011). Retrieved from https://pubfiles.pagasa.dost.gov.ph/iaas/ClimateChange_in_the_Philippines_MDGF_Report_2011.pdf 
