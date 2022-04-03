@@ -37,7 +37,7 @@ This study aims to provide an explanatory analysis of Climate Change in the Phil
  
 
 ## Methods
-Understanding climate and its variability is the first step toward figuring out what factors influence the climate system's mean state, evolution, and future changes. To identify general patterns in the data, we used Exploratory Data Analysis (EDA). It will help the Filipinos to come up with a good strategy or solution to lessen the damage of climate change once the data has been analyzed. Climate and its variations are studied using data collected by the EDA.
+Understanding climate and its variability is the first step toward figuring out what factors influence the climate system's mean state, evolution, and future changes. To identify general patterns in the data, we used Exploratory Data Analysis (EDA).
 
   
 ## Expected Output
