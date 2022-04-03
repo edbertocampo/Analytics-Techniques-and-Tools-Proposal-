@@ -39,7 +39,7 @@ Climate change has had several noticeable effects on the Philippines over the ye
  
 
 ## Methods
-Understanding climate and its variability is the first step toward figuring out what factors influence the climate system's mean state, evolution, and future changes. To identify general patterns in the data, we used Exploratory Data Analysis (EDA).
+Understanding climate and its variability is the first step toward figuring out what factors influence the climate system's mean state, evolution, and future changes. 
 
   
 ## Expected Output
