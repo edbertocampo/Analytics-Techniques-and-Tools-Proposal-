@@ -46,13 +46,14 @@ With the help of EDA which is an analysis approach that identifies general patte
 
 
 #### References:
-[^2]: Climate change scenarios in the Philippines. Climate Change in the Philippines. (2011). Retrieved from https://pubfiles.pagasa.dost.gov.ph/iaas/ClimateChange_in_the_Philippines_MDGF_Report_2011.pdf 
 
-[^2]: FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
+##### Climate change scenarios in the Philippines. Climate Change in the Philippines. (2011). Retrieved from  https://pubfiles.pagasa.dost.gov.ph/iaas/ClimateChange_in_the_Philippines_MDGF_Report_2011.pdf 
 
-[^2]: Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
+##### FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from  https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
 
-[^2]: https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:text=The%20most%20recent%20scientific%20assessments,fuels%20and%20land%20use%20change
+##### Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-   impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
 
-[^2]: https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
+##### https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:text=The%20most%20recent%20scientific%20assessments,fuels%20and%20land%20use%20change
+
+##### https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
 
