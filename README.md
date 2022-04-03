@@ -53,7 +53,7 @@ With the help of EDA which is an analysis approach that identifies general patte
 
 ##### FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from  https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
 
-##### Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-   impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
+##### Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
 
 ##### Climate Change in the Philippines. Retrieved from https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:text=The%20most%20recent%20scientific%20assessments,fuels%20and%20land%20use%20change
 
