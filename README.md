@@ -39,11 +39,11 @@ Climate change has had several noticeable effects on the Philippines over the ye
  
 
 ## Methods
-There have been studies on climate change challenges for poor nations, but it is the rising conversations and literature on climate issues in the Philippines that provide a chance to generate additional empirical data and understanding into this topic. As a result, conducting an Exploratory Data Analysis (EDA) is an appropriate method of building on and exploring new research and is therefore appropriate. The EDA focuses on doing an analysis of information on adaptation techniques in the Philippines setting and providing conclusions. It will also identify general patterns of climate change. 
+There have been studies on climate change challenges for poor nations, but it is the rising conversations and literature on climate issues in the Philippines that provide a chance to generate additional empirical data and understanding into this topic. As a result, conducting an Exploratory Data Analysis (EDA) is an appropriate method of building on and exploring new research. The EDA focuses on doing an analysis of information on adaptation techniques in the Philippines setting and providing conclusions. It will also identify general patterns of climate change. 
 
   
 ## Expected Output
-With the help of EDA which is an analysis approach that identifies general patterns in the data, it will help the researcher to look at the data before making any assumptions. If the analysis of climate change in the Philippines through the years are proven and have some kind of relationship between the variables and if the result of the analysis is getting worst it can be used to spread an awareness to lessen the variables that cause climate change. It also can help for further research to come up a sufficient strategic plan. The government officials can have a meeting to strategized a plan to lessen climate change they can raise an awareness especially to the younger generation, advocate a campaign, make a program that can help or the government officials can also adapt and learn from the other countries who have successfully come up a strategic plan.
+With the help of EDA which is an analysis approach that identifies general patterns in the data, it will help the researcher to look at the data before making any assumptions. If the analysis of climate change in the Philippines through the years are proven and have some kind of relationship between the variables and if the result of the analysis is getting worst it can be used to spread an awareness to lessen the variables that cause climate change. It also can help for further research to come up a sufficient strategic plan. The government officials can have a meeting to strategized a plan to lessen climate change, they can raise an awareness especially to the younger generation, advocate a campaign, make a program that can help or the government officials can also adapt and learn from the other countries who have successfully come up a strategic plan in facing climate change.
 
 
 
@@ -61,3 +61,6 @@ With the help of EDA which is an analysis approach that identifies general patte
 
 ##### https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
 
+#### Data sets used:
+##### https://www.kaggle.com/datasets/rishidamarla/global-rise-in-temperatures-in-each-country
+##### https://data.world/data-society/global-climate-change-data
