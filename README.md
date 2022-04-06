@@ -61,6 +61,16 @@ With the help of EDA which is an analysis approach that identifies general patte
 
 ##### https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
 
+##### Novio, E. B. C. (2022, January 21). 
+Climate Change and Disasters in the Philippines | Heinrich Böll Foundation | Southeast Asia Regional Office
+https://th.boell.org/en/2022/01/21/climate-disasters-philippines
+
+##### Chua, P. L., Dorotan, M. M., Sigua, J. A., Estanislao, R. D., Hashizume, M., & Salazar, M. A. (2019). Scoping Review of Climate Change and Health Research in the Philippines: A Complementary Tool in Research Agenda-Setting. International journal of environmental research and public health, 16(14), 2624. https://doi.org/10.3390/ijerph16142624
+
+##### Rosegrant, Mark W.; Perez, Nicostrato; Pradesha, Angga; and Thomas, Timothy S. 2016. The economywide impacts of climate change on Philippine agriculture. Climate Change Policy Note 1. Washington, D.C.: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/9780896292451
+
+
+
 #### Data sets used:
 ##### https://www.kaggle.com/datasets/rishidamarla/global-rise-in-temperatures-in-each-country
 ##### https://data.world/data-society/global-climate-change-data
