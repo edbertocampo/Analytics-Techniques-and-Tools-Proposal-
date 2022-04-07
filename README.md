@@ -4,13 +4,13 @@
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
 
 ## Introduction
-Climate change is one of the most basic issues that humanity has ever faced. Its negative effects are already being seen, and they are expected to worsen exponentially if nothing is done to curb additional greenhouse gas emissions. Dealing decisively with climate change now is critical to ensure sustainable development, poverty eradication, and economic progress. According to scientific analysis, the cost of inactivity today will be higher in the future.
+Climate change is one of the most basic issues that humanity has ever faced. Its negative effects are already being seen, and they are expected to worsen exponentially if nothing is done to curb additional greenhouse gas emissions. Dealing decisively with climate change now is critical to ensure sustainable development, poverty eradication, and economic progress. According to scientific analysis, the cost of inactivity today will be higher in the future.[^1][^2]
 
-According to the 2017 World Risk Report, the Philippines is the third most susceptible country to climate change. Climate change has had a massive impact on the Philippines, including yearly GDP losses, changes in rainfall patterns and distribution, droughts, challenges to biodiversity and food security, sea level rise, public health hazards, and endangering vulnerable populations such as women and indigenous people.
+According to the 2017 World Risk Report, the Philippines is the third most susceptible country to climate change. Climate change has had a massive impact on the Philippines, including yearly GDP losses, changes in rainfall patterns and distribution, droughts, challenges to biodiversity and food security, sea level rise, public health hazards, and endangering vulnerable populations such as women and indigenous people.[^3]
 
-The average temperature in the Philippines is 24°–27°C all year, with May being the warmest month and January being the coldest. Because to mild trade breezes, rich vegetation, and frequent rainfall, humidity levels average approximately 82 %. However, the dry season lasts from December to May, followed by the rainy season from June to November. From December through February, the eastern and northern coast experience a second rainy season. The Philippines is located in the world's most cyclone-prone area, with an average of 19–20 cyclones each year, 7–9 of which make landfall. The Philippines' typhoon season lasts from July to October, when 70% of typhoons form.
+The average temperature in the Philippines is 24°–27°C all year, with May being the warmest month and January being the coldest. Because to mild trade breezes, rich vegetation, and frequent rainfall, humidity levels average approximately 82 %. However, the dry season lasts from December to May, followed by the rainy season from June to November. From December through February, the eastern and northern coast experience a second rainy season. The Philippines is located in the world's most cyclone-prone area, with an average of 19–20 cyclones each year, 7–9 of which make landfall. The Philippines' typhoon season lasts from July to October, when 70% of typhoons form.[^4]
 
-Based on the Institute for Economics and Peace's 2019 study, the Philippines is the country most susceptible to climate change. The Philippines had a 0.62°C increase in yearly average mean temperature between 1958 and 2014, with the rate of change rising with time. Climate change has increased the volume and intensity of rainfall, resulting in more wet days in recent decades.
+Based on the Institute for Economics and Peace's 2019 study, the Philippines is the country most susceptible to climate change. The Philippines had a 0.62°C increase in yearly average mean temperature between 1958 and 2014, with the rate of change rising with time. Climate change has increased the volume and intensity of rainfall, resulting in more wet days in recent decades.[^4]
 
 
 ## Problem Statement
@@ -49,20 +49,18 @@ With the help of EDA which is an analysis approach that identifies general patte
 
 #### References:
 
-##### Climate change scenarios in the Philippines. Climate Change in the Philippines. (2011). Retrieved from  https://pubfiles.pagasa.dost.gov.ph/iaas/ClimateChange_in_the_Philippines_MDGF_Report_2011.pdf 
+[^1]: https://pubfiles.pagasa.dost.gov.ph/iaas/ClimateChange_in_the_Philippines_MDGF_Report_2011.pdf 
 
-##### FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from  https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
+[^2]: https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:text=The%20most%20recent%20scientific%20assessments,fuels%20and%20land%20use%20change
 
-##### Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
+[^3]: Commission, C. C. (n.d.). Climate change impacts. NICCDIES. Retrieved from https://niccdies.climate.gov.ph/climate-change-impacts#:~:text=Impacts%20of%20climate%20change%20in,as%20women%20and%20indigenous%20people
 
-##### Climate Change in the Philippines. Retrieved from https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:text=The%20most%20recent%20scientific%20assessments,fuels%20and%20land%20use%20change
+[^4]: FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from  https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
 
-##### https://www.pagasa.dost.gov.ph/information/climate-change-in-the-philippines#:~:text=The%20most%20recent%20scientific%20assessments,fuels%20and%20land%20use%20change
 
 ##### https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
 
-##### Novio, E. B. C. (2022, January 21). 
-Climate Change and Disasters in the Philippines | Heinrich Böll Foundation | Southeast Asia Regional Office
+##### Novio, E. B. C. (2022, January 21). Climate Change and Disasters in the Philippines | Heinrich Böll Foundation | Southeast Asia Regional Office
 https://th.boell.org/en/2022/01/21/climate-disasters-philippines
 
 ##### Chua, P. L., Dorotan, M. M., Sigua, J. A., Estanislao, R. D., Hashizume, M., & Salazar, M. A. (2019). Scoping Review of Climate Change and Health Research in the Philippines: A Complementary Tool in Research Agenda-Setting. International journal of environmental research and public health, 16(14), 2624. https://doi.org/10.3390/ijerph16142624
