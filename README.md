@@ -25,8 +25,7 @@ The Philippines, as one of the world's most vulnerable countries, is dedicated t
 
 ## Significance of the Proposed Project
 
-
-Climate change has had several noticeable effects on the Philippines over the years. From increasing temperature, annual loss of GDP, drought, and changes in rainfall pattern. Evidence suggests that the change cannot be explained only by natural variation. According to the most recent scientific studies, the observed warming of the climate system since the mid-20th century is most likely due to human actions such as the use of fossil fuels and land use change. This project's goal is to supply an explanatory analysis of the Climate Change in the Philippines through the years.
+Climate change has had several noticeable effects on the Philippines over the years. From increasing temperature, the annual loss of GDP, drought, and changes in rainfall pattern. Evidence suggests that the change cannot be explained only by natural variation. According to the most recent scientific studies, the observed warming of the climate system since the mid-20th century is most likely due to human actions such as the use of fossil fuels and land-use change. This project's goal is to supply an explanatory analysis of Climate Change in the Philippines through the years.
 
 **The Students**. For those students who will be needing data that may be found from the project. This will allow them to have a thorough understanding of the Philippines' climatic change throughout time.
 
