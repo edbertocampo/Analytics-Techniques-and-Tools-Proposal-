@@ -10,7 +10,7 @@ According to the Word Risk Report 2017, Philippines is the third country that is
 
 The average temperature in the Philippines is around 24°- 27°C, the warmest month is May and the coldest month is January. Due to the mild trade breezes, lush vegetation, and frequent rainfall, the humid levels average is approximately 82%. However, the dry season starts at December to May, which follows the rainy season from June to November. From December to February, the eastern and northern coast experience a second rainy season. The location of the Philippines is most typhoon-prone area, encountering 19-20 typhoons each year and 7-9 landfalls. The Philippines' typhoon season is from July to October, where 70% of typhoons are form[^6].
 
-According to the report of the Institute for Economics and Peace 2017, with the comparison of 1958 and 2014 the temperature in the Philippines increased by 0.62°C in yearly average mean temperature. As consequence, wet days became often from the recent decades because the intensity of rainfall increased[^7].
+According to the report of the Institute for Economics and Peace 2017, with the comparison of 1958 and 2014 the temperature in the Philippines increased by 0.62°C in yearly average mean temperature. As consequence, wet days became often from the recent decades because the intensity of rainfall increased[^6].
 
 
 ## Problem Statement
