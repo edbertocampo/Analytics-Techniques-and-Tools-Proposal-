@@ -12,6 +12,8 @@ The average temperature in the Philippines is around 24°- 27°C, the warmest mo
 
 According to the report of the Institute for Economics and Peace 2017, with the comparison of 1958 and 2014 the temperature in the Philippines increased by 0.62°C in yearly average mean temperature. As consequence, wet days became often from the recent decades because the intensity of rainfall increased[^6].
 
+To sum up, this analysis focuses on the eleventh and thirteenth SDG which is the sustainable cities and cities and climate action. The objective of this analysis is to observe the changes of the Philippine temperature. The datasets are from **Climate Change Knowledge Portal** which will guide the analysis to procure the requisite of the yearly changes from 1901 - 2020. This study will be the evidence that if the Filipino will consistently neglect the nature it will cause an extreme climate change in the future.
+
 
 ## Problem Statement
 As a result of climate change, the Philippines is currently the world's third most susceptible country. Climate change has several impacts in the Philippines:rainfall patterns and distribution have changed, biodiversity and food security threats, sea-level rise, and putting vulnerable groups such as women and indigenous peoples at jeopardy. Droughts and floods are two of the most common natural disasters, reducing agricultural growth and output. To maintain physiological growth responses and productive vegetative capacity for high yield responses, plants require a balanced soil, water, and air environment at the root zone. Climate change impacts many aspects of food production, increasing parasites and disease in certain locations, as well as changes and even reductions in biodiversity in other ecosystems, and severe storm occurrences have caused substantial disruptions, such as the destruction of crops in the Philippines by tropical cyclones[^2].
@@ -71,5 +73,6 @@ The goal of this project is to identify general patterns in the data that will h
 #### Data sets used:
 ##### https://www.kaggle.com/datasets/rishidamarla/global-rise-in-temperatures-in-each-country
 ##### https://data.world/data-society/global-climate-change-data
+##### https://climateknowledgeportal.worldbank.org/
 
 #### References:
