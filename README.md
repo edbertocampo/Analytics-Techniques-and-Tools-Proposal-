@@ -12,7 +12,10 @@ The average temperature in the Philippines is around 24°- 27°C, the warmest mo
 
 According to the report of the Institute for Economics and Peace 2017, with the comparison of 1958 and 2014 the temperature in the Philippines increased by 0.62°C in yearly average mean temperature. As consequence, wet days became often from the recent decades because the intensity of rainfall increased[^6].
 
-To sum up, this analysis focuses on the eleventh and thirteenth SDG which is the sustainable cities and cities and climate action. The objective of this analysis is to observe the changes of the Philippine temperature. The datasets are from **Climate Change Knowledge Portal** which will guide the analysis to procure the requisite of the yearly changes from 1901 - 2020. This study will be the evidence that if the Filipino will consistently neglect the nature it will cause an extreme climate change in the future.
+![SDG11](https://user-images.githubusercontent.com/102471784/170030098-9af2177f-6e48-4a81-8385-e993d18ae7c5.jpg)
+![SDG13](https://user-images.githubusercontent.com/102471784/170030142-59ff8db3-335a-4b5b-9f78-1486b82e9aa3.jpg)
+
+To sum up, this analysis focuses on the eleventh (11) and thirteenth (13) SDG which is the sustainable cities and cities and climate action. The objective of this analysis is to observe the changes of the Philippine temperature. The datasets are from **Climate Change Knowledge Portal** which will guide the analysis to procure the requisite of the yearly changes from 1901 - 2020. This study will be the evidence that if the Filipino will consistently neglect the nature it will cause an extreme climate change in the future.
 
 
 ## Problem Statement
