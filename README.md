@@ -2,11 +2,12 @@
 
 # Project Title: Climate Change in the Philippines through the Years
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
-***PROJECT GAIA Members:***
-***Eleda, Louisse Laine B.***
-***Javier, Marjori G.***
-***Ocampo, Edbert***
-***Salapare, Kian Francis A.***
+
+***PROJECT GAIA Members:***<br />
+***Eleda, Louisse Laine B.***<br />
+***Javier, Marjori G.***<br />
+***Ocampo, Edbert***<br />
+***Salapare, Kian Francis A.***<br />
 ***Tatlonghari, Ana Karl A.***
 
 ## Introduction
