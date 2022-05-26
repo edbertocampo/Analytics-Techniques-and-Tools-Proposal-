@@ -2,6 +2,12 @@
 
 # Project Title: Climate Change in the Philippines through the Years
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
+***PROJECT GAIA Members:***
+***Eleda, Louisse Laine B.***
+***Javier, Marjori G.***
+***Ocampo, Edbert***
+***Salapare, Kian Francis A.***
+***Tatlonghari, Ana Karl A.***
 
 ## Introduction
 Climate change is one of the world's issue right now where different places are having unexpected weather. This takes place during the mid-20th century, due to human activities such as deforestation, fossil fuels, mining, waste disposal and etc. Apparently, this actions are considered as challenges to human and the environment, and will continue in the future. Nowadays, there are some organizations or human activities that are making proactive adaptation and planning in order to ensure the sustainability of the development[^1][^2].
