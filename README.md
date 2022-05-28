@@ -86,3 +86,5 @@ The goal of this project is to identify general patterns in the data that will h
 ##### https://climateknowledgeportal.worldbank.org/
 
 #### References:
+##### https://link.springer.com/chapter/10.1007/978-981-16-6088-7_8
+##### https://oxfamilibrary.openrepository.com/handle/10546/333706
