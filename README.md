@@ -1,4 +1,6 @@
-![Explanatory Analysis (EDA) of Climate Change in the Philippines through the Years](https://user-images.githubusercontent.com/102513636/161005611-bc626bdc-91ef-495a-bcfb-ce8b2f1f9237.png)
+![Explanatory Analysis (EDA) of Climate Change in the Philippines through the Years]
+
+![Screenshot (119)](https://user-images.githubusercontent.com/102513636/170865954-71b24cbd-cafa-4432-a4d2-9ccebb156daf.png)
 
 # Project Title: Climate Change in the Philippines through the Years
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
