@@ -1,5 +1,4 @@
-
-![Screenshot (119)](https://user-images.githubusercontent.com/102513636/170865954-71b24cbd-cafa-4432-a4d2-9ccebb156daf.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/102513636/170866585-1e57b22e-8dcc-41f6-8764-3c2f6dd0a17a.png)
 
 # Project Title: Climate Change in the Philippines through the Years
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
