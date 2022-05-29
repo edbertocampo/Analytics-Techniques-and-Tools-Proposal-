@@ -71,16 +71,15 @@ The goal of this project is to identify general patterns in the data that will h
 
 [^6]: FutureLearn. (2021, August 18). Everything you need to know about climate change in the Philippines. FutureLearn. Retrieved from  https://www.futurelearn.com/info/futurelearn-international/climate-change-philippines 
 
-[^7]: World Bank. (2013). Building resilience: Integrating climate anddisaster risk into development. Lessons from world bank
-group experience. Washington, DC: Author.
+[^7]: World Bank. (2013). Building resilience: Integrating climate and disaster risk into development. Lessons from world bank group experience. Washington, DC: Author. https://www.tandfonline.com/doi/abs/10.1080/17565529.2016.1174659
 
-[^7]: https://www.coursehero.com/file/p6r610d83/Droughts-and-floods-are-becoming-more-common-as-a-result-of-climate-change/
+[^8]: https://www.coursehero.com/file/p6r610d83/Droughts-and-floods-are-becoming-more-common-as-a-result-of-climate-change/
 
-[^8]: https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
+[^9]: https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical
 
-[^9]: https://www.ibm.com/cloud/learn/exploratory-data-analysis
+[^10]: https://www.ibm.com/cloud/learn/exploratory-data-analysis
 
-[^10]: https://www.un.org/en/climatechange#
+[^11]: https://www.un.org/en/climatechange#
 
 
 #### Data sets used:
