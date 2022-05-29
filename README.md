@@ -1,4 +1,3 @@
-![Explanatory Analysis (EDA) of Climate Change in the Philippines through the Years]
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/102513636/170865954-71b24cbd-cafa-4432-a4d2-9ccebb156daf.png)
 
