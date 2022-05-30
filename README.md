@@ -92,11 +92,6 @@ The goal of this project is to identify general patterns in the data that will h
 [^14]: https://www.un.org/en/climatechange#
 
 
-#### Data sets used:
-##### https://www.kaggle.com/datasets/rishidamarla/global-rise-in-temperatures-in-each-country
-##### https://data.world/data-society/global-climate-change-data
-##### https://climateknowledgeportal.worldbank.org/
-
 #### References:
 ##### https://link.springer.com/chapter/10.1007/978-981-16-6088-7_8
 ##### https://oxfamilibrary.openrepository.com/handle/10546/333706
